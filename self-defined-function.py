@@ -20,3 +20,8 @@ def count(y):
   x.loc[0,y]=top1
 for n in columns:  #applied with the whole topping menu
   count(n)
+#use two matched array create dictionary:
+def dictionary:
+  d={}
+  for p in range(len(order_sum)):
+    d[order_sum.index[p]]=order_sum[p]
